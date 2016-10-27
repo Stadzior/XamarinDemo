@@ -5,7 +5,8 @@
              x:Class="XamarinDemo.MainPage">
 <StackLayout> 
   <Image
-  
+    Source="icon.png"
+    
   />
   <Entry
     HorizontalTextAlignment="Center"
