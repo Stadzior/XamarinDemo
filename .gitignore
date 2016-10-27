@@ -3,3 +3,13 @@
 ################################################################################
 
 *.suo
+/XamarinDemo/XamarinDemo/XamarinDemo/bin
+/XamarinDemo/XamarinDemo/XamarinDemo/obj
+/XamarinDemo/XamarinDemo/XamarinDemo.Droid/bin
+/XamarinDemo/XamarinDemo/XamarinDemo.Droid/obj
+/XamarinDemo/XamarinDemo/XamarinDemo.iOS/bin
+/XamarinDemo/XamarinDemo/XamarinDemo.iOS/obj
+/XamarinDemo/XamarinDemo/XamarinDemo.Windows/bin/Release
+/XamarinDemo/XamarinDemo/XamarinDemo.Windows/obj
+/XamarinDemo/packages
+/XamarinDemo/XamarinDemo/XamarinDemo.Windows/bin/Debug
